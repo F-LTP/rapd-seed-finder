@@ -1,3 +1,5 @@
+Note:I fork this for study. I plan to add it to Radish Pixel Dungeon later.Here's what the original authors have said.
+
 # Shattered Pixel Dungeon seed finder
 
 Application to find seeds for Shattered Pixel Dungeon given constraints (e.g. wand of disintegration +2 and ring of evasion in the first 4 floors).
